@@ -1,0 +1,24 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundling/demos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foundling/demos/issues"
+  },
+  "homepage": "https://github.com/foundling/demos#readme",
+  "description": "",
+  "dependencies": {
+    "alkali": "^0.20.6",
+    "d3": "^5.6.0",
+    "ramda": "^0.25.0"
+  }
+}
